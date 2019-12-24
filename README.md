@@ -59,3 +59,11 @@ To get this project functional locally follow the steps
 A version of this code is passed through travis and tested then automatically deployed to
 https://tchcore.herokuapp.com
 The adminpanel login details are as specified in TEST 2 requirements
+
+## Example view
+
+Adding a company from the Admin Panel
+![Company view](examples/touchcore-company-example.png)
+
+REST API
+![REST](examples/touchcore-employees-api.png)

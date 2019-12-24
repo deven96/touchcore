@@ -148,3 +148,7 @@ images/*
 # vim junk
 *.swp
 *.swo
+
+# DB stuff
+*.sqlite3
+
